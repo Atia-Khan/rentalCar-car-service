@@ -22,12 +22,6 @@ public class CarTests {
         car.setId(id);
         assertEquals(id, car.getId());
     }
-
-   
- 
-
-
-
  
     @Test
     void testingName(){
